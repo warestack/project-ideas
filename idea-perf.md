@@ -10,7 +10,7 @@
 
 * Strong machine learning background
 
-### Relation with modules
+### Relation with modules (BBK)
 
 🏁 To undertake this project, you should have completed one or more of the following modules.
 
