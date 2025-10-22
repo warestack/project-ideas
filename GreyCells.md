@@ -4,7 +4,7 @@
 
 In LLMs, `memory` means how the model remembers information.
 
-It can remember things you said in the current chat like (short-term memory) or keep useful info from past chats (long-term memory) to make future answers more relevant.
+It can remember things you said in the current chat (short-term memory) or keep useful info from past chats (long-term memory) to make future answers more relevant.
 
 I came up with this project while experimenting with agentic AI frameworks like [LangGraph](https://www.langchain.com/langgraph) and [Mem0](https://mem0.ai/). I noticed that while agents can `remember` information locally, there’s no shared, persistent, or interoperable way to store and share memories online.
 
