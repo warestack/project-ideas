@@ -1,4 +1,4 @@
-### Project idea — MindBox
+### Project idea — GreyCells
 
 **Inspiration**
 
@@ -10,11 +10,7 @@ I came up with this project while experimenting with agentic AI frameworks like 
 
 Imagine if agents could save thoughts and experiences just like humans save files in Dropbox, each one having a unique URL, version history, and access control.
 
-This project also reminds me an old movie!
-
-[Johny Mnemonic](https://www.imdb.com/title/tt0113481/) is a movie from 1995, where a data courier, literally carrying other's memories (data) inside his head, and must deliver it before things go wrong!
-
-![johnny_mnemonic_poster](assets/johnny_mnemonic_poster.png)
+![gray-cells](assets/gray-cells.webp)
 
 **Reality**
 
@@ -47,7 +43,7 @@ Build a memory cloud that stores each memory as an addressable object with its o
 Each memory can be:
 
 - Created and updated via API or SDK
-- Shared via a signed link (`https://mindbox.ai/m/mem_123@v2`)
+- Shared via a signed link (`https://greycells.ai/m/mem_123@v2`)
 - Diffed semantically to show what changed between versions
 - Exported to `.memx` files for transfer between agents
 
@@ -118,7 +114,7 @@ POST /api/mem/mem_123/share
 **Access shared URL**
 
 ```
-GET https://mindbox.ai/s/abc123?mem=mem_123@v2&exp=1730000000&sig=...
+GET https://greycells.ai/s/abc123?mem=mem_123@v2&exp=1730000000&sig=...
 → Returns JSON memory if signature + TTL are valid
 ```
 
