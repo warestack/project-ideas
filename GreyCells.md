@@ -1,4 +1,4 @@
-### Project idea — GreyCells
+### GreyCells: Memory with a URL
 
 **Inspiration**
 
@@ -11,6 +11,8 @@ I came up with this project while experimenting with agentic AI frameworks like 
 Imagine if agents could save thoughts and experiences just like humans save files in Dropbox, each one having a unique URL, version history, and access control.
 
 ![gray-cells](assets/gray-cells.webp)
+
+🕵️ From [*Agatha Christie’s Poirot*](https://www.imdb.com/title/tt0094525/) with David Suchet.
 
 **Reality**
 

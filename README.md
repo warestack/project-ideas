@@ -1,4 +1,4 @@
-### Welcome to Stelios Sotiriadis’ Project Ideas
+### Welcome to Stelios’ Project Ideas
 
 This repository contains a collection of project ideas designed for university students studying Computer Science and related fields. 
 

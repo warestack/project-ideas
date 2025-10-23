@@ -1,4 +1,4 @@
-### Project idea — RepoGroove
+### RepoGroove: Commit with beat
 
 **Inspiration**
 
@@ -17,6 +17,10 @@ GitHub gives raw event data, commits, PRs, merges, comments, but it’s just tim
 Imagine if every week you could generate a signal representing your team’s activity, number of PRs opened, commits made, reviews completed per day and more and then learn the rhythm of your best sprint. 
 
 Your goal? Is to always is to either improve it or stay as close to the best.
+
+![whiplash](assets/whiplash.gif)
+
+🎬 From [*Whiplash*](https://www.imdb.com/title/tt2582802/).
 
 **Problem**
 

@@ -1,4 +1,4 @@
-### Project idea — DevReach
+### DevReach: Hot outreach
 
 **Inspiration**
 
@@ -17,6 +17,10 @@ Developers ignore generic outbound emails. The dev-tool market responds to conte
 **Solution**
 
 Build an app that automatically personalizes outreach for developer leads by pulling public signals (GitHub, Medium, Twitter, blog posts) and composing short, relevant emails using LLMs. The app will integrate with existing outbound platforms (Apollo, HubSpot) so teams can run high-volume but highly personalized campaigns.
+
+![founder](assets/founder.jpg)
+
+*🎬 From [The Founder](https://www.imdb.com/title/tt4276820/)*
 
 **Key behaviors**
 
