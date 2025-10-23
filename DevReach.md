@@ -20,7 +20,7 @@ Build an app that automatically personalizes outreach for developer leads by pul
 
 ![founder](assets/founder.jpg)
 
-*🎬 From [The Founder](https://www.imdb.com/title/tt4276820/)*
+*🎬 From [The Founder](https://www.imdb.com/title/tt4276820/)*, starring Michael Keaton.
 
 **Key behaviors**
 
