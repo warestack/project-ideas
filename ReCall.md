@@ -1,4 +1,4 @@
-### Project idea — ReCall: Time travel to bugs
+### ReCall: Time travel to bugs
 
 **Inspiration**
 
