@@ -1,10 +1,10 @@
-### MemGang: Agents sharing memory
+### MemPool: Agents sharing memory
 
 **Inspiration**
 
 AI agents are beginning to collaborate, retrieving data, summarizing text, writing reports. Yet most still act alone, repeating the same work in isolation.
 
-What if a *gang* of agents could share what they know in real time?
+What if a *pool* of agents could share what they know in real time?
 
 Each agent keeps its own role, but all contribute to one shared memory, a living knowledge mesh.
 

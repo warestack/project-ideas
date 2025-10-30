@@ -6,9 +6,9 @@ A company deploys an AI customer support agent system.
 
 It has:
 
-- Agent A: Intake agent → reads customer messages, classifies intent.
-- Agent B: Knowledge agent → searches company docs for answers.
-- Agent C: Resolution agent → drafts replies and tracks follow-ups.
+- `Agent A`: Intake agent → reads customer messages, classifies intent.
+- `Agent B`: Knowledge agent → searches company docs for answers.
+- `Agent C`: Resolution agent → drafts replies and tracks follow-ups.
 
 They handle thousands of tickets daily, often from returning customers. Each agent is stateless, they don’t “remember” what happened yesterday.
 
